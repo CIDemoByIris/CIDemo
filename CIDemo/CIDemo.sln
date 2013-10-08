@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20617.1 PREVIEW
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIDemo", "CIDemo\CIDemo.csproj", "{EF7D84D1-29E6-4654-9BA4-AB91939C6C91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIDemo.Tests", "CIDemo.Tests\CIDemo.Tests.csproj", "{368025BB-5D0D-422B-B0C3-2EB9E0FBE2A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF7D84D1-29E6-4654-9BA4-AB91939C6C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7D84D1-29E6-4654-9BA4-AB91939C6C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7D84D1-29E6-4654-9BA4-AB91939C6C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7D84D1-29E6-4654-9BA4-AB91939C6C91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{368025BB-5D0D-422B-B0C3-2EB9E0FBE2A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{368025BB-5D0D-422B-B0C3-2EB9E0FBE2A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{368025BB-5D0D-422B-B0C3-2EB9E0FBE2A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{368025BB-5D0D-422B-B0C3-2EB9E0FBE2A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
